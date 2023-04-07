@@ -1,2 +1,2 @@
 # Shopify-App
-This shopify app is created in laravel framework.
+This shopify app is created in laravel framework. In this app a quotation form created in shopify page is when submitted get the entry saved in the laravel database. Admin can see the list of all quotes. He can send him the payment link to pay for particular service (to customize his images). When user pay for the service admin will upload the customized pictures, user will get notification. He will login to his website and can download the customized pictures. 
